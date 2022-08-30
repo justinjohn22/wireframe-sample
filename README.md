@@ -21,7 +21,7 @@ Once program is running, the user is presented with a console CLI.
 
 2. Type the command 'exit' into the program to exit the program.
 
-After a valid ID has been input, the program will retrieve the appropiate information and offers the user for another input. As stated above, the users have the option to either make another query or to exit the program by entering 'exit'.
+After a valid ID has been input, the program will retrieve the appropiate information and offers the user another input. As stated above, the users have the option to either make another query or to exit the program by entering 'exit'.
 
 ## Program Complexity 
 1. For reading each file, the program has to loop through every field from the external file, giving an O(n) complexity.
